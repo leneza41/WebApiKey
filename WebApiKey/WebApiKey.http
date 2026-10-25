@@ -1,6 +1,1 @@
 @WebApiKey_HostAddress = http://localhost:5132
-
-GET {{WebApiKey_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
